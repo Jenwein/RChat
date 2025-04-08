@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/ice.png</file>
+        <file>style/stylesheet.qss</file>
+        <file>res/unvisible.png</file>
+        <file>res/unvisible_hover.png</file>
+        <file>res/visible.png</file>
+        <file>res/visible_hover.png</file>
+        <file>res/add_friend_hover.png</file>
+        <file>res/add_friend_normal.png</file>
+        <file>res/search.png</file>
+        <file>res/close_search.png</file>
+        <file>res/search (2).png</file>
+        <file>res/head_1.png</file>
+        <file>res/head_2.png</file>
+        <file>res/head_3.png</file>
+        <file>res/head_4.png</file>
+        <file>res/loading.mp4</file>
+        <file>res/loading.gif</file>
+        <file>res/loading_1.gif</file>
+        <file>res/loading_2.gif</file>
+        <file>res/emoij.png</file>
+        <file>res/emoij_hover.png</file>
+        <file>res/filedir.png</file>
+        <file>res/filedir_hover.png</file>
+    </qresource>
+</RCC>
